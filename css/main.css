@@ -84,7 +84,7 @@ body {
 .layers__caption {
     font-size: calc(var(--index) /  1.175);
     letter-spacing: calc(var(--index) /  3.5);
-    margin-top: calc(var(--index) * -13.2);
+    margin-top: calc(var(--index) * -14.2);
 }
 .main-article {
     --main-article-transform: translate3d(0, calc(var(--scrollTop) / -17), 0);
