@@ -11,6 +11,7 @@ Live demo: https://darkkurac.github.io/parallax-landing-page/
 This is a small educational frontend project.
 It demonstrates a basic parallax effect using layered backgrounds and scroll-based animations.
 
+Based on WebDesign Master parallax tutorial (educational purpose).
 ## Tech stack
 - HTML
 - CSS
